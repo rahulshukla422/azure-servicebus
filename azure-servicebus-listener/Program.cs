@@ -9,7 +9,7 @@ namespace azure_servicebus_reciever
 {
     class Program
     {
-        const string servicebusConenctionString = "Endpoint=sb://service-bus-temp.servicebus.windows.net/;SharedAccessKeyName=listen-keys;SharedAccessKey=xrYg904qU0KRTJe2gTSySgzG9QEmcwyrZZWXyNaJdNU=;";
+        const string servicebusConenctionString = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX;";
         const string topicName = "topic-temp";
         const string subcriptionName = "topic-sub";
         private static ISubscriptionClient subscriptionClient;

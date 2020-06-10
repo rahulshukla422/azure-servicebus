@@ -9,7 +9,7 @@ namespace azure_servicebus
 {
     class Program
     {
-        const string servicebusConnectionString = "Endpoint=sb://service-bus-temp.servicebus.windows.net/;SharedAccessKeyName=send-keys;SharedAccessKey=CgxmRWRE7eCmU7EnzQBbd4EgiCADepim0cs5Jjl8mRQ=;";
+        const string servicebusConnectionString = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxx";
 
         const string topicName = "topic-temp";
 
